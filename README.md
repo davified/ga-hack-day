@@ -74,7 +74,11 @@ Time             |                                                              
 7pm - 8.30pm     |                     Show participants the Mothership! + Each group to show their final product + Closing remarks
 8.30pm - late    |                                                        More drinks + Mingling
 
-> Hourly "Pomodoro" lightning talks (10-15mins) will be taking place at the cafe. The number of talks will depend on the number of guest speakers we can find. I've allocated the events to a timeslot to help us better visualise the program. These are tentative timeslots and can be changed further. Participants can deploy regularly before 5.30pm. We could make a cool time lapse video of how to the Mothership app grows over the course of the day
+Notes:
+
+- Hourly "Pomodoro" lightning talks (10-15mins) will be taking place at the cafe. The number of talks will depend on the number of guest speakers we can find.
+- I've allocated the events to a timeslot to help us better visualise the program. These are tentative timeslots and can be changed further.
+- Participants can deploy regularly before 5.30pm. We could make a cool time lapse video of how to the Mothership app grows over the course of the day
 
 ~~### Judging criteria (20 points for each criteria)~~
 
