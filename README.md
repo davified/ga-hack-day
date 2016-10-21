@@ -4,7 +4,16 @@
 
 A one-day hackathon for developers (WDI grads, UX grads, and friends are welcome!) to get together, mingle over food and drinks, learn from each other and guest speakers, build solutions and have fun!
 
-What we've decided on after the first meeting:
+Here's what we discussed at the first meeting:
+
+### Key objectives of the hackathon
+
+The hackathon should:
+
+- be fun and social for the participants
+- raise awareness about General Assembly and GA grads
+- stimulate learning
+- generate solutions for business/social problems
 
 ### Theme: The Mothership X Smart Nation
 
@@ -25,7 +34,7 @@ What we've decided on after the first meeting:
 
 - We can provide the above categories/buckets as an initial starting point for participants. They will be responsible for coming up with the problem statement and deciding on their implementation strategy. There can be more than one group in a category/bucket, and participants are welcome to add new categories/buckets (so long as they build it in a group)
 
-- To encourage the fun aspect and to prevent people from getting overly competitive, there won't be a "winner" per se. There will be prizes/goodies (e.g. GA course credits, co-working space vouchers)
+- To encourage the fun aspect and to prevent people from getting overly competitive, there won't be a "winner" per se. We can still have prizes/goodies (e.g. GA course credits, co-working space vouchers) and maybe categorical (i.e. non-ordinal) awards (e.g. 'most creative award', 'least-number-of-lines-of-code award', 'craziest idea award', etc)
 
 - This theme / approach is cool because:
 
@@ -33,19 +42,6 @@ What we've decided on after the first meeting:
   - It encourages collaboration within teams and across microservices
   - The outcomes will be open-sourced and it can benefit businesses, the social sector and the general public.
   - The 'smart nation' theme could be a good hook for press coverage. Press coverage will benefit GA grads, GA, and future GA students!
-
-### Key objectives of the hackathon
-
-- Participants should have fun
-- The hackathon should raise awareness about General Assembly and GA grads
-- The hackathon should stimulate learning
-- Generate solutions for business/social problems
-
-### Details
-
-- Date: TBC
-- Time: 9am - 10pm
-- Venue: Spacemob
 
 ### Why come? (pull factors)
 
@@ -55,6 +51,12 @@ The hackathon will be an opportunity for GA grads to:
 - build something / implement an idea in a day
 - learn from each other and from guest talks
 - have fun!
+
+### Details
+
+- Date: TBC
+- Time: 9am - 10pm
+- Venue: Spacemob
 
 ### Schedule (as of now)
 
