@@ -103,4 +103,4 @@ Here's a list of stuff that I (David) came up with after the meeting:
 - Advertise about the event on facebook, within our WDI.x group chats and at meetups
 - Get 4-5 guest speakers + a keynote speaker (ideally someone respectable in the dev community)
 - Book the venue with Spacemob
-- Run by the programme with somebody super detail-oriented (**ahem** Rachel **ahem**) to check if we've covered all grounds
+- Run by the programme with somebody super detail-oriented to check if we've covered all grounds
