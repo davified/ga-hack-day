@@ -9,7 +9,7 @@ What we've decided on after the first meeting:
 ### Theme: The Mothership X Smart Nation
 
 - During the hackathon, participants will form groups and each group will build an app / microservice that will feed into a single mega mothership app.
-- The mothership app could be a dashboard that expose endpoints to microservices which can be classified into categories such as:
+- The mothership app could be a dashboard that expose endpoints to microservices that provide solutions in areas such as:
 
   - Technology
   - Data analytics
@@ -22,6 +22,8 @@ What we've decided on after the first meeting:
   - Transport
   - Fitness
   - Whatever else the participants can come up with!
+
+- We can provide the above categories/buckets as an initial starting point for participants. They will be responsible for coming up with the problem statement and deciding on their implementation strategy. There can be more than one group in a category/bucket, and participants are welcome to add new categories/buckets (so long as they build it in a group)
 
 - To encourage the fun aspect and to prevent people from getting overly competitive, there won't be a "winner" per se. There will be prizes/goodies (e.g. GA course credits, co-working space vouchers)
 
