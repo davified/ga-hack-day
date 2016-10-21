@@ -36,12 +36,12 @@ The hackathon should:
 
 - To encourage the fun aspect and to prevent people from getting overly competitive, there won't be a "winner" per se. We can still have prizes/goodies (e.g. GA course credits, co-working space vouchers) and maybe categorical (i.e. non-ordinal) awards (e.g. 'most creative award', 'least-number-of-lines-of-code award', 'craziest idea award', etc)
 
-- This theme / approach is cool because:
+**- This theme / approach is cool because:**
 
-  - It is technically challenging and (if done well) impressive
-  - It encourages collaboration within teams and across microservices
-  - The outcomes will be open-sourced and it can benefit businesses, the social sector and the general public.
-  - The 'smart nation' theme could be a good hook for press coverage. Press coverage will benefit GA grads, GA, and future GA students!
+- It is technically challenging and (if done well) impressive
+- It encourages collaboration within teams and across microservices
+- The outcomes will be open-sourced and it can benefit businesses, the social sector and the general public.
+- The 'smart nation' theme could be a good hook for press coverage. Press coverage will benefit GA grads, GA, and future GA students!
 
 ### Why come? (pull factors)
 
